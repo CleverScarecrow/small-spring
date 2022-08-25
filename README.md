@@ -1,4 +1,4 @@
-# :seedling: Spring 手撸专栏 - 易学、好写、能懂！1
+# :seedling: Spring 手撸专栏 - 易学、好写、能懂！
 
 ![](https://github.com/fuzhengwei/small-spring/blob/main/docs/assets/img/HeadDiagram.png?raw=true)
 
